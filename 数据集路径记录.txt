@@ -1,0 +1,23 @@
+0.  数据集根目录 E:\RFID\datasets
+一.  图书书脊定位
+        book_loc/
+                 premark_dataset_2024_11_7_all/     预打标设备的书脊定位
+                 public_book_loc/  公共数据集的书脊定位
+                 sjzt_without_bad_shrink/  松江展厅的第一批数据的书脊定位
+                 sjzt2_without_bad_shrink/  松江展厅的第二批数据的书脊定位
+
+                   
+二. 层架定位
+         cj_loc/   
+                  cj_data/  厦门少儿的层架定位
+                  sjzt_data/  松江展厅层架定位
+
+三. 书脊上的文字定位
+       E:\RFID\datasets\book_loc\premark_dataset_2024_11_7_all\Images_rgb_2024_8_7_sj_cut
+
+四. 书脊上的文字识别
+       E:\datasets\RFID\ocr-rec-checkok-2024-10-16
+
+五. 图像拼接原始数据集
+       D:\projects\RFID\exploration\img_splicing\xmsr_img_cuts
+      
