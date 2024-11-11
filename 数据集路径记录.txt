@@ -20,4 +20,6 @@
 
 五. 图像拼接原始数据集
        D:\projects\RFID\exploration\img_splicing\xmsr_img_cuts
+       a. 特征点检测与匹配
+            E:\explore\LoFTR-train\datasets.zip
       
