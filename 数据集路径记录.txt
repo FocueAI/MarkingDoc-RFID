@@ -19,6 +19,8 @@
        E:\datasets\RFID\ocr-rec-checkok-2024-10-16
 
 五. 图像拼接原始数据集
+       E:\RFID\datasets\xmsr\ReadyToDecode\240616  （厦门少儿，每个层架拍摄3张图像）
+
        D:\projects\RFID\exploration\img_splicing\xmsr_img_cuts
        a. 特征点检测与匹配
             E:\RFID\datasets\image_pj\datasets.zip
