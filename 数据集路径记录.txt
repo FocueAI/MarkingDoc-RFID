@@ -31,3 +31,8 @@
        a. 特征点检测与匹配
             E:\RFID\datasets\image_pj\datasets.zip
       
+六. 在图像上定位指定的文本位置
+      E:\datasets\CSVTRv2\CSVTRv2
+
+
+
