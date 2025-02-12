@@ -1,0 +1,36 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bookszone",
+      "points": [
+        [
+          4.210526315789636,
+          1751.9298245614034
+        ],
+        [
+          2614.736842105263,
+          1720.3508771929824
+        ],
+        [
+          2611.2280701754385,
+          301.0526315789474
+        ],
+        [
+          0.7017543859650743,
+          318.5964912280702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "n0101002-05-03.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}
