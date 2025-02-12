@@ -1,4 +1,2 @@
-# work_rfid_import_rec
-记录一些在RFID公司工作的重要事情的记录
-## paddleOCR训练和识别的项目位于  
-/usr/projects/new_paddleOCR_2024_9_9/PaddleOCR
+## 打标文档
+视觉盘点OCR方案打标V1-2025-02-12.MD
