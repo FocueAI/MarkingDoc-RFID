@@ -75,6 +75,6 @@ def markdown_file_to_docx(markdown_file_path, output_file):
     print(f"Word文档已生成：{output_file}")
 
 # 示例用法
-markdown_file_path = "视觉盘点OCR方案打标V1-2025-02-12.md"  # 替换为你的Markdown文件路径
-output_file = "视觉盘点OCR方案打标V1-2025-02-12.docx"  # 输出的Word文档路径
+markdown_file_path = "视觉盘点OCR方案打标V1-2025-02-17.md"  # 替换为你的Markdown文件路径
+output_file = "视觉盘点OCR方案打标V1-2025-02-17.docx"  # 输出的Word文档路径
 markdown_file_to_docx(markdown_file_path, output_file)
