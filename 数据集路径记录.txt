@@ -36,4 +36,16 @@
       E:\datasets\CSVTRv2\CSVTRv2
 
 
+1. 训练服务器的重要目录的相关介绍
+    a. 针对, 图书书脊文字检测+分类的项目
+       /mnt/disk4/projects/expore/PaddleOCR-det-mulcls
+    b. 基于机器人拍照的层架定位目录(基于上图东馆数据)
+       /mnt/disk3/projects/expore/ultralytics
+    c. 基于固定摄像头拍照的层架定位
+       /mnt/disk3/projects/unet-pytorch-for-shlib-east
+    d. 书脊定位方案1
+       /mnt/disk3/projects/book_loc/PaddleOCR-det-book-spine-loc
+    e. 书脊定位方案2
+       /mnt/disk3/projects/book_loc/DB-mulcls-book-seg-2-25
+
 
