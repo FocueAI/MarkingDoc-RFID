@@ -48,4 +48,6 @@
     e. 书脊定位方案2
        /mnt/disk3/projects/book_loc/DB-mulcls-book-seg-2-25
 
-
+2. github上一些项目的记录
+   a. 对分割模型的效果评估
+      learning_pytorch/shapely的用法-里面包含基于分割的定位评价指标脚本/shapely简单使用-基于分割的定位评价指标.py    
