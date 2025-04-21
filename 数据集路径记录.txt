@@ -47,6 +47,10 @@
        /mnt/disk3/projects/book_loc/PaddleOCR-det-book-spine-loc
     e. 书脊定位方案2
        /mnt/disk3/projects/book_loc/DB-mulcls-book-seg-2-25
+    f. 书脊上的文字定位
+       /mnt/disk3/projects/book_loc/PaddleOCR-det-text-loc
+    g. 书脊版面分析
+       /mnt/disk4/projects/expore/PaddleOCR-for-SER
 
 2. github上一些项目的记录
    a. 对分割模型的效果评估
