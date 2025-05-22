@@ -51,6 +51,8 @@
        /mnt/disk3/projects/book_loc/PaddleOCR-det-text-loc
     g. 书脊版面分析
        /mnt/disk4/projects/expore/PaddleOCR-for-SER
+    h. 研究新型ppOCR-v5
+       /mnt/disk4/projects/expore/new/PaddleOCR
 
 2. github上一些项目的记录
    a. 对分割模型的效果评估
