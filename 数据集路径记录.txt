@@ -57,3 +57,44 @@
 2. github上一些项目的记录
    a. 对分割模型的效果评估
       learning_pytorch/shapely的用法-里面包含基于分割的定位评价指标脚本/shapely简单使用-基于分割的定位评价指标.py    
+
+### -------------------------------2025-7-7----------------- 有关ocr视觉盘点部署的问题 ------------------------------------------ ###
+models  常用的调试目录: /mnt/disk4/projects/songtao/vlibrary-models     ====> 该代码已经被自己的github所托管  main 分支为宋滔(交接者，作者) 原始内容
+                                                                                                        master 分支为 当前自己维护的分支
+
+
+inference 常用的调试目录: E:\RFID\projects\songtao_jiaojie\company_gitlab\vlibrary_inference   ====> 目前只有一个main分支，上面最初的节点是宋滔(交接者，作者)原始内容
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
