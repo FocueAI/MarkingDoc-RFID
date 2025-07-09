@@ -66,6 +66,14 @@ models  常用的调试目录: /mnt/disk4/projects/songtao/vlibrary-models     =
 inference 常用的调试目录: E:\RFID\projects\songtao_jiaojie\company_gitlab\vlibrary_inference   ====> 目前只有一个main分支，上面最初的节点是宋滔(交接者，作者)原始内容
 
 
+faiss 书名/索书号 向量数据库的制作
+/usr/projects/projects/explore
+-------------------------------------------------- 其实下面 的书名/索书号 对应的数据库制作都是一样的，是可以合并的呢
+--bert-inference-with-faiss  书名的的向量数据库的制作
+--bert-inference-with-faiss-for-call-no 索书号的向量数据库的制作
+--bert-inference-with-faiss-all
+
+
 
 
 
